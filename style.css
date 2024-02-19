@@ -5,8 +5,6 @@
 }
 
 .paragraph1 {
-    width: 538px;
-    height: 59px;
     top: 195px;
     left: 391px;
     position: absolute;
@@ -18,21 +16,21 @@
 
 
 .img1 {
-    width: 435px;
+    width: 33.33%;
     height: 254px;
     position: absolute;
     z-index: 2;
 }
 
 .img2 {
-    width: 558px;
+    width: 33.33%;
     height: 254px;
     position: absolute;
     left: 371px;
 }
 
 .img3 {
-    width: 50%;
+    width: 33.33%;
     height: 254px;
     position: absolute;
     left: 859px;
